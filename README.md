@@ -11,7 +11,7 @@ Make sure you have Python installed on your system. This program is designed to 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/MrDecoder2/digital-clock.git
+https://github.com/Aritra-Mondal-ICS/Digital-Clock
 ```
 
 2. Navigate to the project directory:
