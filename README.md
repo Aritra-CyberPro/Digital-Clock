@@ -11,7 +11,7 @@ Make sure you have Python installed on your system. This program is designed to 
 1. Clone the repository to your local machine:
 
 ```bash
-https://github.com/Aritra-Mondal-ICS/Digital-Clock
+https://github.com/Aritra-CyberPro/Digital-Clock.git
 ```
 
 2. Navigate to the project directory:
